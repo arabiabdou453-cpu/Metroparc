@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@import "tailwindcss";
+
+/* =======================
+   ROOT VARIABLES (بديل @theme)
+======================= */
+:root {
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-bg-dark: #0A0F1E;
+  --color-blue-primary: #1E3A5F;
+  --color-accent-cyan: #00D4FF;
+  --color-orange-metro: #FF6B35;
+  --color-gray-card: #131929;
+
+  --color-risk-red: #FF4D6D;
+  --color-risk-green: #00C48C;
+  --color-risk-amber: #FFB700;
+  --color-risk-blue: #4CC9F0;
+}
+
+/* =======================
+   BASE
+======================= */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0A0F1E;
+  color: #FFFFFF;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+/* =======================
+   SCROLLBAR
+======================= */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0A0F1E;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E3A5F;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00D4FF;
+}
+
+/* =======================
+   GLASS EFFECTS
+======================= */
+.glass-panel {
+  background: rgba(19, 25, 41, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glass-panel-glow {
+  background: rgba(19, 25, 41, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 212, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 212, 255, 0.05);
+}
+
+.glass-modal {
+  background: rgba(10, 15, 30, 0.85);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* =======================
+   TEXT GRADIENTS
+======================= */
+.text-gradient-cyan {
+  background: linear-gradient(135deg, #FFFFFF 30%, #00D4FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-orange {
+  background: linear-gradient(135deg, #FF6B35 0%, #FF4D6D 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-dual {
+  background: linear-gradient(135deg, #FF6B35 0%, #00D4FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* =======================
+   BACKGROUNDS
+======================= */
+.dots-grid {
+  background-image: radial-gradient(rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* =======================
+   CARD BORDER
+======================= */
+.card-border-top {
+  position: relative;
+}
+
+.card-border-top::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #FF6B35, #00D4FF);
+  border-radius: 6px 6px 0 0;
+}
+
+/* =======================
+   HOVER EFFECTS
+======================= */
+.glow-cyan-hover:hover {
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.35);
+  border-color: #00D4FF;
+}
+
+.glow-orange-hover:hover {
+  box-shadow: 0 0 20px rgba(255, 107, 53, 0.35);
+  border-color: #FF6B35;
+}
+
+/* =======================
+   RECHARTS FIX
+======================= */
+.recharts-tooltip-wrapper {
+  outline: none !important;
+}
