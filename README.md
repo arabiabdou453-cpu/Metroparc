@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚖️ METROPARC — Logiciel de Métrologie Industrielle
+<img src="public/metroparc-logo.svg" alt="METROPARC Logo" width="300"/>
+
+<br/><br/>
 
 **La métrologie industrielle, enfin automatisée. Solution SaaS conforme ISO 9001, ISO 10012, ISO/IEC 17025 & FDX 07-014.**
 
