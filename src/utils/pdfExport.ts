@@ -14,7 +14,7 @@ export function exportPredictionToPDF(inputs: InputFactors, result: SimulationRe
   doc.setTextColor(255, 255, 255);
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(22);
-  doc.text('METROPARC METROLOGY AI', 15, 20);
+  doc.text('METRO METROLOGY AI', 15, 20);
   
   doc.setFontSize(10);
   doc.setFont('helvetica', 'normal');
@@ -177,8 +177,8 @@ export function exportPredictionToPDF(inputs: InputFactors, result: SimulationRe
   doc.setFont('helvetica', 'italic');
   doc.setFontSize(8);
   doc.text("Ce document est généré par un système informatique de simulation. Conforme à la norme d'optimisation métrologique FD X 07-014.", 15, pageHeight - 12);
-  doc.text("METROPARC AI 2026 — Plateforme d'étalonnage prédictive", pageWidth - 100, pageHeight - 12);
+  doc.text("METRO AI 2026 — Plateforme d'étalonnage prédictive", pageWidth - 100, pageHeight - 12);
 
   // Save the PDF
-  doc.save(`METROPARC_Rapport_${inputs.serialNumber || 'Instrument'}.pdf`);
+  doc.save(`METRO_Rapport_${inputs.serialNumber || 'Instrument'}.pdf`);
 }

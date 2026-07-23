@@ -66,7 +66,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="border-t border-white/5 pt-6 flex flex-col sm:flex-row justify-between items-center text-xs gap-4">
-          <p>© {new Date().getFullYear()} METROPARC. Conçu pour l'industrie 4.0.</p>
+          <p>© {new Date().getFullYear()} METRO. Conçu pour l'industrie 4.0.</p>
           <div className="flex items-center gap-1.5">
             <Info className="h-4 w-4 text-accent-cyan" />
             <span>Concept théorique basé sur des modèles simulés côté client.</span>

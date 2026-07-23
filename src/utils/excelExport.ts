@@ -50,6 +50,6 @@ export function exportInstrumentsToExcel(
   worksheet['!cols'] = maxLen.map((w) => ({ wch: w + 2 }));
 
   // Generate Excel file and trigger download
-  XLSX.writeFile(workbook, `METROPARC_Inventaire_Optimise_${new Date().toISOString().split('T')[0]}.xlsx`);
+  XLSX.writeFile(workbook, `METRO_Inventaire_Optimise_${new Date().toISOString().split('T')[0]}.xlsx`);
 }
 export default exportInstrumentsToExcel;

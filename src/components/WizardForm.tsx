@@ -32,7 +32,7 @@ export const WizardForm: React.FC = () => {
     if (!isAnalyzing) return;
 
     const texts = [
-      'Connexion au serveur de métrologie METROPARC...',
+      'Connexion au serveur de métrologie METRO...',
       'Chargement de la base d\'entraînement (50,000+ instruments)...',
       'Lecture des caractéristiques physiques de l\'instrument...',
       'Calcul du taux de dérive et du rapport incertitude/tolérance...',
