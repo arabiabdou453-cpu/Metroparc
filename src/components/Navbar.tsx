@@ -19,7 +19,7 @@ export const Navbar: React.FC = () => {
             </div>
           </div>
           <span className="font-display text-xl font-bold tracking-wider">
-            METRO<span className="text-orange-metro">PARC</span>
+            METRO<span className="text-orange-metro"> AI</span>
           </span>
         </div>
 

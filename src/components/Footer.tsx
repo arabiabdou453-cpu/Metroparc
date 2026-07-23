@@ -13,7 +13,7 @@ export const Footer: React.FC = () => {
           {/* Col 1: Brand & Concept */}
           <div className="flex flex-col space-y-3">
             <span className="font-display text-lg font-bold text-white tracking-wider">
-              METRO<span className="text-orange-metro">PARC</span>
+              METRO<span className="text-orange-metro"> AI</span>
             </span>
             <p className="text-sm leading-relaxed max-w-xs">
               Démonstrateur d'IA appliquée à la métrologie industrielle. Optimisation intelligente des intervalles de confirmation métrologique.
