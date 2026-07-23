@@ -4,12 +4,12 @@
 
 **Advanced AI-Powered Calibration Interval Optimization Dashboard**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://antigravity-six-phi.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://metroai-pro.vercel.app)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS v4](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-[**View Live Demo**](https://antigravity-six-phi.vercel.app)
+[**View Live Demo**](https://metroai-pro.vercel.app)
 
 </div>
 
@@ -47,7 +47,7 @@ Featuring an ultra-premium "dark mode" aesthetic, glassmorphism, and responsive 
 ## 🚀 Live Demo
 
 Check out the fully functional deployment here: 
-**👉 [https://antigravity-six-phi.vercel.app](https://antigravity-six-phi.vercel.app) 👈**
+**👉 [https://metroai-pro.vercel.app](https://metroai-pro.vercel.app) 👈**
 
 <br/>
 
