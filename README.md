@@ -1,72 +1,115 @@
 <div align="center">
-  
-# METRO AI 🚀
 
-**Advanced AI-Powered Calibration Interval Optimization Dashboard**
+# ⚖️ METROPARC — Logiciel de Métrologie Industrielle
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://metroai-pro.vercel.app)
-[![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS v4](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+**La métrologie industrielle, enfin automatisée. Solution SaaS conforme ISO 9001, ISO 10012, ISO/IEC 17025 & FDX 07-014.**
 
-[**View Live Demo**](https://metroai-pro.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://saas-metroparc.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arabiabdou453-cpu/Metroparc)
+[![ISO Standard](https://img.shields.io/badge/ISO%2FIEC-17025%3A2017-blue?style=for-the-badge)](https://www.iso.org/standard/66912.html)
+[![Compliance](https://img.shields.io/badge/Conformit%C3%A9-GUM%20%7C%20DCC%20XML-orange?style=for-the-badge)]()
+
+[🌐 **Consulter la Démo en Ligne**](https://saas-metroparc.netlify.app/) | [📁 **Dépôt GitHub**](https://github.com/arabiabdou453-cpu/Metroparc)
 
 </div>
 
 <br/>
 
-## 🌟 Overview
+## 📌 Présentation
 
-**METRO AI** is a professional, modern, and creative web application built for metrology experts. It leverages simulated Machine Learning models (Random Forest, XGBoost) to dynamically optimize calibration intervals in strict compliance with the **FD X 07-014** and **ISO 17025** standards.
+**METROPARC** est une plate-forme SaaS moderne de métrologie industrielle conçue pour centraliser la gestion complète de votre parc d'instruments de mesure, automatiser vos calculs d'incertitudes selon le guide **GUM** et optimiser vos périodicités d'étalonnage conformément à la norme **FDX 07-014**.
 
-Featuring an ultra-premium "dark mode" aesthetic, glassmorphism, and responsive micro-animations, METRO AI sets a new benchmark for industrial data visualization tools.
+Finies les gestions sur des fichiers Excel dispersés et non sécurisés : METROPARC offre une traçabilité totale et vous prépare à réussir tous vos audits d'accréditation et de certification.
 
-<br/>
+---
 
-## ✨ Key Features
+## ✨ Modules Principaux
 
-- **🧠 Machine Learning Simulation Engine**: Experience realistic predictions for calibration intervals utilizing underlying math simulations for Random Forest and XGBoost.
-- **📊 Interactive Data Visualizations**: Powered by *Recharts*, offering fluid and intuitive insights into your metrology equipment.
-- **💼 Professional UI/UX**: Ultra-modern aesthetic incorporating glassmorphism UI tokens and the `#0A0F1E` deep dark theme.
-- **📄 Export to PDF & Excel**: One-click generation of professional metrology reports (via `jsPDF` and `SheetJS`).
-- **✅ ISO 17025 & FD X 07-014 Compliant**: Built strictly around international standards for interval optimization.
+### 📋 Module 01 : Gestion du Parc d'Instruments
+- **Inventaire Centralisé :** Fiches équipements détaillées, historiques d'utilisation et entrées/sorties.
+- **Planning & Rappels :** Suivi automatisé des périodicités d'étalonnage et des vérifications intermédiaires (VI).
+- **Gestion Documentaire :** Numérisation et archivage sécurisé des certificats et notices.
 
-<br/>
+### 🧮 Module 02 : Feuilles de Calcul & Certificats Numériques
+- **Calcul d'Incertitudes GUM :** Application automatique du guide JCGM 100:2008 & EA 02/04.
+- **Bilan des Corrections :** Calcul automatique des incertitudes composées et élargies.
+- **Format DCC XML :** Génération de Certificats d'Étalonnage Numériques (*Digital Calibration Certificate*) conformes ISO/IEC 17025.
 
-## 🛠️ Technology Stack
+### 📈 Module 03 : Surveillance, Dérive & Cartes de Contrôle
+- **Suivi des Dérives :** Modélisation mathématique et prédictive de la dérive des instruments.
+- **Cartes de Contrôle :** Graphiques de suivi des vérifications intermédiaires avec alertes intelligentes hors tolérances.
 
-- **Framework:** React 18 (Vite)
-- **Language:** TypeScript 
-- **Styling:** Tailwind CSS v4
-- **State Management:** Zustand
-- **Icons & UI:** Lucide React, Framer Motion
-- **Hosting:** Vercel
+### ⚙️ Module 04 : Optimisation des Périodicités (FDX 07-014)
+- **Méthode de la Dérive :** Ajustement dynamique fondé sur l'évolution réelle des dérives.
+- **Rapport de Périodicité :** Analyse du ratio temps/dérive pour ajuster les intervalles.
+- **Méthode OPPERET :** Optimisation multicritère des coûts et risques métrologiques.
 
-<br/>
+---
 
-## 🚀 Live Demo
+## 📜 Conformité & Normes Qualité
 
-Check out the fully functional deployment here: 
-**👉 [https://metroai-pro.vercel.app](https://metroai-pro.vercel.app) 👈**
+METROPARC répond rigoureusement aux exigences des référentiels internationaux et nationaux :
 
-<br/>
+- **ISO/IEC 17025:2017** — Exigences générales concernant la compétence des laboratoires d'étalonnages et d'essais.
+- **ISO 9001:2015 §7.5** — Systèmes de gestion de la qualité & maîtrise des équipements de mesure.
+- **ISO 10012:2003** — Systèmes de management de la mesure.
+- **FDX 07-014** — Méthodes d'optimisation des intervalles de confirmation métrologique.
+- **JCGM 100:2008 (GUM)** — Évaluation des données de mesure – Guide pour l'expression de l'incertitude de mesure.
+- **EA-4/02 M:2022** — Evaluation of the Uncertainty of Measurement in Calibration.
+- **DCC v3.x** — Certificat d'Étalonnage Numérique (*Digital Calibration Certificate* XML).
 
-## 💻 Getting Started locally
+---
 
-1. **Clone the repository:**
+## 🛡️ Confidentialité & Impartialité (ISO/IEC 17025 §4.1 & §4.2)
+
+- **Impartialité (§4.1) :** Cloisonnement strict des rôles (Technicien, Responsable Qualité, Auditeur), traçabilité immuable des validations et neutralité totale vis-à-vis des prestataires.
+- **Confidentialité (§4.2) :** Isolation logique des données par laboratoire, sauvegardes chiffrées, journaux d'accès complets et conformité aux audits ALGERAC.
+
+---
+
+## 🛠️ Stack Technique
+
+- **Frontend :** HTML5, CSS3 Moderne (Variables CSS, Grid, Flexbox, Animations & Micro-interactions)
+- **Typographie :** Plus Jakarta Sans (Google Fonts)
+- **Design System :** Palette de couleurs HSL sur mesure, dark elements, glassmorphism, responsive design
+- **Hébergement & Déploiement :** Netlify / Vercel
+- **Dépôt Git :** GitHub
+
+---
+
+## 🚀 Liens Utiles & Démo
+
+- 🔗 **Application en Ligne (Live Demo) :** [https://saas-metroparc.netlify.app/](https://saas-metroparc.netlify.app/)
+- 🐙 **Code Source GitHub :** [https://github.com/arabiabdou453-cpu/Metroparc](https://github.com/arabiabdou453-cpu/Metroparc)
+
+---
+
+## 💻 Installation & Utilisation Locale
+
+1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/arabiabdou453-cpu/metroparc.git
+   git clone https://github.com/arabiabdou453-cpu/Metroparc.git
+   cd Metroparc
    ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Start the development server:**
+
+2. **Lancer le projet :**
+   Ouvrez le fichier `index.html` dans votre navigateur ou lancez le serveur de développement :
    ```bash
    npm run dev
    ```
 
 ---
+
+## 📞 Contact & Support
+
+- **Email :** [saas.metroparc@gmail.com](mailto:saas.metroparc@gmail.com)
+- **Téléphone :** 0667 775 568
+- **Localisation :** Boumerdes, Algérie
+
+---
+
 <div align="center">
-<i>Designed for the future of industrial metrology.</i>
+
+© 2025 **METROPARC** — *Logiciel de Métrologie Industrielle. Tous droits réservés.*
+
 </div>
