@@ -199,15 +199,34 @@ I am a **Full-Stack Developer** and **AI Engineer** specializing in the intersec
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📈 GitHub Analytics & Activity Dashboard
 
 <div align="center">
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabiabdou453-cpu&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <!-- 3D Profile Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arabiabdou453-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=arabiabdou453-cpu&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- Stats Grid Cards -->
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabiabdou453-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arabiabdou453-cpu&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
 </div>
 
 ---
