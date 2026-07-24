@@ -1,12 +1,15 @@
 <div align="center">
 
-  <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abderrahmane+Arabi;Full-Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Deep+Learning;DevSecOps+%26+Automated+Security" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Abderrahmane Arabi</h1>
+
+  <!-- Line 2: Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Deep+Learning;DevSecOps+%26+Automated+Security;Building+Secure+%26+Intelligent+Web+Apps" alt="Typing SVG" />
 
   <br/><br/>
 
   <p align="center">
-    <strong>Building secure, intelligent, and scalable web applications with Python, React, Next.js & DevSecOps.</strong>
+    <strong>Full Stack Developer | AI Enthusiast | Machine Learning & Deep Learning | DevSecOps</strong><br/>
+    Building secure and intelligent web applications with Python, React, Next.js
   </p>
 
   <br/>
@@ -31,6 +34,10 @@
   <a href="https://discord.gg/abdouarabi" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  &nbsp;
+  <a href="https://instagram.com/abdou.arabi42/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
@@ -38,78 +45,34 @@
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👨‍💻 About Me
 
-```gcode
-Location     : Algeria
-Specialty    : AI Engineering • Full-Stack Web Development • DevSecOps
-Core Stack   : Python | JavaScript / TypeScript | React | Next.js | PHP / WordPress
-DevSecOps    : Shift-Left Security | GitHub Actions | SAST | Secret Detection | Docker
-Automation   : n8n | Claude AI | LLM Agents | Custom APIs & Webhooks
-```
+I am a **Full-Stack Developer** and **AI Engineer** focused on building intelligent web applications, predictive machine learning models, and automated security pipelines. 
 
-I am a **Full-Stack Developer** and **AI Engineer** specializing in the intersection of artificial intelligence, modern web engineering, and enterprise DevSecOps. I design and build production-ready applications—ranging from predictive Machine Learning models to scalable React/Next.js platforms and secure CI/CD pipelines.
+- 🧠 **AI & Machine Learning:** Developing end-to-end ML models, deep learning architectures, and data science pipelines.
+- 🌐 **Full-Stack Web Development:** Architecting responsive web applications using React, Next.js, Node.js, TypeScript, and PHP.
+- 🖥️ **WordPress Development:** Designing custom, high-performance WordPress portals, bespoke themes, and optimized sites.
+- 🔐 **DevSecOps & Cloud Security:** Implementing automated CI/CD security workflows with secret scanning, SAST, and container auditing.
+- ⚙️ **Automation Workflows:** Engineering automated data pipelines and AI agent workflows using n8n and Claude AI.
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## 🛠️ Tech Stack & Real Icons
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI & Machine Learning</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Full-Stack Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 DevSecOps & Cloud Security</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <br/>
-        <img src="https://img.shields.io/badge/Semgrep-1C2C4B?style=flat-square&logo=semgrep&logoColor=white" />
-        <img src="https://img.shields.io/badge/CodeQL-000000?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trivy-0275B8?style=flat-square&logo=aquasec&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 WordPress & Automation</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhook&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,php,html,css,tensorflow,pytorch,docker,githubactions,linux,wordpress,n8n,git,mysql,vscode,postman&perline=10" alt="Tech Stack Icons" />
+</p>
+
+<br/>
+
+| Category | Real Technologies & Tools |
+| :--- | :--- |
+| **Artificial Intelligence** | `Python` `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `PyTorch` |
+| **Generative AI** | `Claude AI` `LLM Applications` `Prompt Engineering` `AI Automation` |
+| **Full-Stack Development** | `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PHP` `HTML5` `CSS3` |
+| **WordPress** | `WordPress` `Elementor` `Custom PHP` `Website Optimization` |
+| **DevSecOps** | `GitHub Actions` `Docker` `Linux` `CodeQL` `Semgrep` `Trivy` `Gitleaks` `TruffleHog` |
+| **Automation** | `n8n` `APIs` `Webhooks` `Workflow Automation` |
 
 ---
 
@@ -117,83 +80,56 @@ I am a **Full-Stack Developer** and **AI Engineer** specializing in the intersec
 
 ### 🤖 AI & Machine Learning Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🚗 Car Price Prediction System</h4>
-      <p>Supervised Machine Learning model & Streamlit dashboard that analyzes vehicle attributes and predicts accurate market prices.</p>
-      <p><strong>Stack:</strong> Python • Scikit-Learn • Pandas • Streamlit</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🔗 View Repository</a></p>
-    </td>
-    <td width="50%">
-      <h4>🏠 House Price Prediction Engine</h4>
-      <p>Data science regression pipeline for real estate valuation, statistical cleaning, and feature engineering.</p>
-      <p><strong>Stack:</strong> Python • Scikit-Learn • Pandas • Matplotlib</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🔗 View Repository</a></p>
-    </td>
-  </tr>
-</table>
+#### 🚗 Car Price Prediction System
+- **Description:** Interactive Streamlit web application powered by a supervised Machine Learning regression pipeline that estimates car market values based on technical specifications.
+- **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Streamlit
+- **Link:** [Car Price Prediction Repository](https://github.com/arabiabdou453-cpu)
+
+#### 🏠 House Price Prediction Model
+- **Description:** Machine Learning regression model designed for real estate price valuation, feature engineering, and statistical data cleaning.
+- **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Link:** [House Price Prediction Repository](https://github.com/arabiabdou453-cpu)
 
 ---
 
 ### 🌐 Full-Stack Applications
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>📐 METROPARC — Industrial Metrology SaaS Platform</h4>
-      <p>Enterprise SaaS platform for industrial metrology compliance (<strong>ISO/IEC 17025</strong>, <strong>ISO 9001</strong>, <strong>FDX 07-014</strong>). Features fleet tracking, GUM uncertainty calculations, drift monitoring, and DCC XML digital certificate generation.</p>
-      <p><strong>Stack:</strong> HTML5 • Modern CSS3 • JavaScript ES6+ • Google Apps Script Webhooks • Netlify</p>
-      <p>
-        <a href="https://saas-metroparc.netlify.app/">🌐 <strong>Live Demo</strong></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/arabiabdou453-cpu/Metroparc">📁 <strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 📐 METROPARC — Industrial Metrology SaaS Platform
+- **Description:** Full-stack SaaS platform for industrial metrology compliance (**ISO/IEC 17025**, **ISO 9001**, **FDX 07-014**). Features fleet management, automated GUM uncertainty calculation, drift control charts, and DCC XML export.
+- **Technologies:** HTML5, Modern CSS3 (Glassmorphism), Vanilla JS ES6+, Google Apps Script Webhook, Netlify
+- **Links:** [Live Demo](https://saas-metroparc.netlify.app/) • [GitHub Repository](https://github.com/arabiabdou453-cpu/Metroparc)
 
 ---
 
 ### 🖥️ WordPress Websites
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>💼 Enterprise WordPress & Custom Web Platforms</h4>
-      <p>Bespoke WordPress websites built with Elementor, custom PHP integrations, responsive design, and advanced speed/SEO optimization for businesses.</p>
-      <p><strong>Stack:</strong> WordPress • PHP • Elementor • CSS3 • MySQL</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🌐 <strong>Explore Portfolio</strong></a></p>
-    </td>
-  </tr>
-</table>
+#### 💼 Custom WordPress Enterprise Portals
+- **Description:** High-performance corporate portals and client landing pages featuring custom Elementor architecture, custom PHP templates, responsive mobile layouts, and speed optimization.
+- **Technologies:** WordPress, PHP, Elementor, CSS3, MySQL
+- **Link:** [WordPress Projects](https://github.com/arabiabdou453-cpu)
 
 ---
 
 ### 🔐 DevSecOps Security Pipeline
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>🛡️ Automated Shift-Left CI/CD Security Scanning</h4>
-      <p>Production-grade DevSecOps pipeline automating code vulnerability detection, secret scanning (Gitleaks/TruffleHog), static analysis (Semgrep/CodeQL), and container security (Trivy) in GitHub Actions.</p>
-      <p><strong>Tools:</strong> Gitleaks • TruffleHog • Semgrep • Trivy • CodeQL • GitHub Actions • Docker</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">📁 <strong>Repository</strong></a></p>
-    </td>
-  </tr>
-</table>
+#### 🛡️ Automated CI/CD Security Workflow
+- **Description:** Automated CI/CD security workflow integrating security testing directly into software development lifecycle. Detects exposed secrets, static code vulnerabilities, dependency risks, and container flaws using GitHub Actions.
+- **Tools:** Gitleaks, TruffleHog, Semgrep, Trivy, CodeQL, GitHub Actions, Docker, Linux
+- **Link:** [DevSecOps Security Pipeline](https://github.com/arabiabdou453-cpu)
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Statistics
 
-<div align="center">
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arabiabdou453-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabiabdou453-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabiabdou453-cpu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arabiabdou453-cpu&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
