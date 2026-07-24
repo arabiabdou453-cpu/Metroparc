@@ -71,9 +71,10 @@ METROPARC répond rigoureusement aux exigences des référentiels internationaux
 
 ## 🛠️ Stack Technique
 
-- **Frontend :** HTML5, CSS3 Moderne (Variables CSS, Grid, Flexbox, Animations & Micro-interactions)
+- **Frontend :** HTML5, CSS3 Moderne (Variables CSS, Grid, Flexbox, Animations & Micro-interactions), Vanilla JavaScript ES6+
 - **Typographie :** Plus Jakarta Sans (Google Fonts)
-- **Design System :** Palette de couleurs HSL sur mesure, dark elements, glassmorphism, responsive design
+- **Collecte des Données & Formulaire :** Intégration **Google Apps Script** (Web App Webhook) transmettant directement les demandes de démo vers un tableur **Google Sheets** en temps réel (sans backend serveur nécessaire).
+- **Design System :** Palette de couleurs HSL sur mesure, dark elements, glassmorphic UI, responsive design
 - **Hébergement & Déploiement :** Netlify / Vercel
 - **Dépôt Git :** GitHub
 
