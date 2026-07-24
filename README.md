@@ -1,118 +1,153 @@
 <div align="center">
 
-<img src="public/metroparc-logo.svg" alt="METROPARC Logo" width="300"/>
+# Abderrahmane Arabi
 
-<br/><br/>
+### AI Engineer • Full-Stack Developer • WordPress Developer • DevSecOps Enthusiast
 
-**La métrologie industrielle, enfin automatisée. Solution SaaS conforme ISO 9001, ISO 10012, ISO/IEC 17025 & FDX 07-014.**
+*"Building intelligent AI solutions, modern web applications and secure software systems."*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://saas-metroparc.netlify.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arabiabdou453-cpu/Metroparc)
-[![ISO Standard](https://img.shields.io/badge/ISO%2FIEC-17025%3A2017-blue?style=for-the-badge)](https://www.iso.org/standard/66912.html)
-[![Compliance](https://img.shields.io/badge/Conformit%C3%A9-GUM%20%7C%20DCC%20XML-orange?style=for-the-badge)]()
-
-[🌐 **Consulter la Démo en Ligne**](https://saas-metroparc.netlify.app/) | [📁 **Dépôt GitHub**](https://github.com/arabiabdou453-cpu/Metroparc)
-
-</div>
-
-<br/>
-
-## 📌 Présentation
-
-**METROPARC** est une plate-forme SaaS moderne de métrologie industrielle conçue pour centraliser la gestion complète de votre parc d'instruments de mesure, automatiser vos calculs d'incertitudes selon le guide **GUM** et optimiser vos périodicités d'étalonnage conformément à la norme **FDX 07-014**.
-
-Finies les gestions sur des fichiers Excel dispersés et non sécurisés : METROPARC offre une traçabilité totale et vous prépare à réussir tous vos audits d'accréditation et de certification.
-
----
-
-## ✨ Modules Principaux
-
-### 📋 Module 01 : Gestion du Parc d'Instruments
-- **Inventaire Centralisé :** Fiches équipements détaillées, historiques d'utilisation et entrées/sorties.
-- **Planning & Rappels :** Suivi automatisé des périodicités d'étalonnage et des vérifications intermédiaires (VI).
-- **Gestion Documentaire :** Numérisation et archivage sécurisé des certificats et notices.
-
-### 🧮 Module 02 : Feuilles de Calcul & Certificats Numériques
-- **Calcul d'Incertitudes GUM :** Application automatique du guide JCGM 100:2008 & EA 02/04.
-- **Bilan des Corrections :** Calcul automatique des incertitudes composées et élargies.
-- **Format DCC XML :** Génération de Certificats d'Étalonnage Numériques (*Digital Calibration Certificate*) conformes ISO/IEC 17025.
-
-### 📈 Module 03 : Surveillance, Dérive & Cartes de Contrôle
-- **Suivi des Dérives :** Modélisation mathématique et prédictive de la dérive des instruments.
-- **Cartes de Contrôle :** Graphiques de suivi des vérifications intermédiaires avec alertes intelligentes hors tolérances.
-
-### ⚙️ Module 04 : Optimisation des Périodicités (FDX 07-014)
-- **Méthode de la Dérive :** Ajustement dynamique fondé sur l'évolution réelle des dérives.
-- **Rapport de Périodicité :** Analyse du ratio temps/dérive pour ajuster les intervalles.
-- **Méthode OPPERET :** Optimisation multicritère des coûts et risques métrologiques.
-
----
-
-## 📜 Conformité & Normes Qualité
-
-METROPARC répond rigoureusement aux exigences des référentiels internationaux et nationaux :
-
-- **ISO/IEC 17025:2017** — Exigences générales concernant la compétence des laboratoires d'étalonnages et d'essais.
-- **ISO 9001:2015 §7.5** — Systèmes de gestion de la qualité & maîtrise des équipements de mesure.
-- **ISO 10012:2003** — Systèmes de management de la mesure.
-- **FDX 07-014** — Méthodes d'optimisation des intervalles de confirmation métrologique.
-- **JCGM 100:2008 (GUM)** — Évaluation des données de mesure – Guide pour l'expression de l'incertitude de mesure.
-- **EA-4/02 M:2022** — Evaluation of the Uncertainty of Measurement in Calibration.
-- **DCC v3.x** — Certificat d'Étalonnage Numérique (*Digital Calibration Certificate* XML).
-
----
-
-## 🛡️ Confidentialité & Impartialité (ISO/IEC 17025 §4.1 & §4.2)
-
-- **Impartialité (§4.1) :** Cloisonnement strict des rôles (Technicien, Responsable Qualité, Auditeur), traçabilité immuable des validations et neutralité totale vis-à-vis des prestataires.
-- **Confidentialité (§4.2) :** Isolation logique des données par laboratoire, sauvegardes chiffrées, journaux d'accès complets et conformité aux audits ALGERAC.
-
----
-
-## 🛠️ Stack Technique
-
-- **Frontend :** HTML5, CSS3 Moderne (Variables CSS, Grid, Flexbox, Animations & Micro-interactions), Vanilla JavaScript ES6+
-- **Typographie :** Plus Jakarta Sans (Google Fonts)
-- **Collecte des Données & Formulaire :** Intégration **Google Apps Script** (Web App Webhook) transmettant directement les demandes de démo vers un tableur **Google Sheets** en temps réel (sans backend serveur nécessaire).
-- **Design System :** Palette de couleurs HSL sur mesure, dark elements, glassmorphic UI, responsive design
-- **Hébergement & Déploiement :** Netlify / Vercel
-- **Dépôt Git :** GitHub
-
----
-
-## 🚀 Liens Utiles & Démo
-
-- 🔗 **Application en Ligne (Live Demo) :** [https://saas-metroparc.netlify.app/](https://saas-metroparc.netlify.app/)
-- 🐙 **Code Source GitHub :** [https://github.com/arabiabdou453-cpu/Metroparc](https://github.com/arabiabdou453-cpu/Metroparc)
-
----
-
-## 💻 Installation & Utilisation Locale
-
-1. **Cloner le dépôt :**
-   ```bash
-   git clone https://github.com/arabiabdou453-cpu/Metroparc.git
-   cd Metroparc
-   ```
-
-2. **Lancer le projet :**
-   Ouvrez le fichier `index.html` dans votre navigateur ou lancez le serveur de développement :
-   ```bash
-   npm run dev
-   ```
-
----
-
-## 📞 Contact & Support
-
-- **Email :** [saas.metroparc@gmail.com](mailto:saas.metroparc@gmail.com)
-- **Téléphone :** 0667 775 568
-- **Localisation :** Boumerdes, Algérie
-
----
-
-<div align="center">
-
-© 2025 **METROPARC** — *Logiciel de Métrologie Industrielle. Tous droits réservés.*
+<p align="center">
+  <a href="https://github.com/arabiabdou453-cpu">
+    <img src="https://img.shields.io/badge/GitHub-arabiabdou453--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/abdou-arabi-3603bb310">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdou--Arabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arabiabdou453@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arabiabdou453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a results-driven **AI Engineer**, **Full-Stack Web Developer**, **WordPress Developer**, and **DevSecOps Enthusiast** passionate about bridging artificial intelligence, modern web engineering, and enterprise-grade security. 
+
+My technical focus spans across:
+
+- 🧠 **Artificial Intelligence & Machine Learning:** Designing predictive ML models, regression engines, and data preprocessing pipelines.
+- 🔬 **Deep Learning:** Building neural networks and deep architecture models using TensorFlow and PyTorch.
+- 🌐 **Full-Stack Web Development:** Architecting responsive, high-performance web applications using modern JavaScript/TypeScript, React, Node.js, and Vanilla CSS/HTML.
+- 🎨 **WordPress Website Development:** Crafting custom WordPress themes, Elementor portals, speed optimization, and scalable web solutions.
+- 🔐 **DevSecOps & Secure Development:** Implementing automated CI/CD security pipelines with static code analysis, secret detection, and container security.
+- ⚙️ **Automation Workflows:** Building automated data pipelines and AI agent workflows using n8n, Claude AI, and custom webhooks.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI & Machine Learning Projects
+
+#### 🚗 Car Price Prediction System
+- **Description:** An end-to-end Machine Learning solution coupled with an interactive Streamlit web interface to estimate market valuations of automobiles based on technical specifications and historical trends.
+- **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Streamlit
+- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+
+#### 🏠 House Price Prediction Model
+- **Description:** Supervised Machine Learning regression model designed for real estate price valuation, feature engineering, and statistical data cleaning.
+- **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+
+---
+
+### 💻 Full-Stack Web Projects
+
+#### 📐 METROPARC — Industrial Metrology SaaS Platform
+- **Description:** A modern SaaS web platform for industrial metrology compliant with **ISO/IEC 17025**, **ISO 9001**, **ISO 10012**, and **FDX 07-014**. Features fleet management, automated GUM uncertainty calculation, drift control charts, and Digital Calibration Certificate (DCC XML) exports.
+- **Technologies:** HTML5, Modern CSS3 (Glassmorphism, HSL Design System), Vanilla JS ES6+, Google Apps Script Webhook, Netlify
+- **Links:** [Live Demo](https://saas-metroparc.netlify.app/) • [GitHub Repository](https://github.com/arabiabdou453-cpu/Metroparc)
+
+---
+
+### 🌐 WordPress Websites
+
+#### 💼 Custom WordPress Portals & Enterprise Websites
+- **Description:** Custom-built corporate websites, client landing pages, and dynamic WordPress portals designed with Elementor, custom PHP templates, mobile-first responsive layouts, and advanced SEO/speed optimizations.
+- **Technologies:** WordPress, PHP, Elementor, CSS3, MySQL, Website Optimization
+- **Links:** [Live Portfolio / GitHub Profile](https://github.com/arabiabdou453-cpu)
+
+---
+
+### 🔐 DevSecOps Security Pipeline
+
+#### 🛡️ Automated DevSecOps Security Scanning Pipeline
+- **Description:** An automated multi-stage CI/CD security pipeline designed to enforce shift-left security practices. Automatically scans codebase for exposed credentials, static code vulnerabilities, dependencies, and container flaws prior to deployment.
+- **Security Tools & Stack:** Gitleaks, TruffleHog, Semgrep, Trivy, CodeQL, GitHub Actions, Docker, Linux
+- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI & Data Science
+`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`
+
+### 🤖 Generative AI
+`Claude AI` • `LLM Applications` • `Prompt Engineering` • `AI Automation`
+
+### 🌐 Full Stack Development
+`HTML5` • `CSS3` • `JavaScript` • `React` • `TypeScript` • `Node.js` • `PHP`
+
+### 🎨 WordPress
+`WordPress` • `Elementor` • `PHP` • `Website Optimization`
+
+### 🔐 DevSecOps & Cloud
+`GitHub Actions` • `Docker` • `Linux` • `CodeQL` • `Semgrep` • `Trivy` • `Gitleaks` • `TruffleHog`
+
+### ⚙️ Automation & APIs
+`n8n` • `REST APIs` • `Webhooks` • `Workflow Automation`
+
+---
+
+## 🌍 My Websites & Online Projects
+
+| Project | Category | Description | Live Demo | Repository |
+| :--- | :--- | :--- | :---: | :---: |
+| **METROPARC** | Industrial SaaS | SaaS platform for metrology & GUM uncertainty calculation | [Live Site](https://saas-metroparc.netlify.app/) | [GitHub](https://github.com/arabiabdou453-cpu/Metroparc) |
+| **Car Price Predictor** | AI / ML App | Interactive Streamlit ML app predicting car prices | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
+| **House Price ML** | AI / Data Science | Supervised regression model for real estate valuation | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
+| **WordPress Portals** | Web Development | High-performance responsive WordPress business sites | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&count_private=true" alt="Abderrahmane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arabiabdou453-cpu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arabiabdou453-cpu&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/arabiabdou453-cpu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/abdou-arabi-3603bb310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arabiabdou453@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://kaggle.com/arabiabdou" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://discord.gg/abdouarabi" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://instagram.com/abdou.arabi42/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://web.facebook.com/hadj.arabi.1/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
