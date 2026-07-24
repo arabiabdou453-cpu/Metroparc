@@ -1,244 +1,118 @@
 <div align="center">
 
-  <!-- Fixed First Line Title -->
-  <h1>Hi 👋, I'm Abderrahmane Arabi</h1>
+<img src="public/metroparc-logo.svg" alt="METROPARC Logo" width="300"/>
 
-  <br/>
+<br/><br/>
 
-  <!-- Progressive Multi-Line Typing Animation SVG (Larger & Centered) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=2500&color=38BDF8&multiline=true&center=true&vCenter=true&width=750&height=180&lines=Full-Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Deep+Learning;WordPress+%26+WooCommerce+Developer;DevSecOps+%26+Automated+Security" alt="Typing SVG" />
+**La métrologie industrielle, enfin automatisée. Solution SaaS conforme ISO 9001, ISO 10012, ISO/IEC 17025 & FDX 07-014.**
 
-  <br/><br/>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://saas-metroparc.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arabiabdou453-cpu/Metroparc)
+[![ISO Standard](https://img.shields.io/badge/ISO%2FIEC-17025%3A2017-blue?style=for-the-badge)](https://www.iso.org/standard/66912.html)
+[![Compliance](https://img.shields.io/badge/Conformit%C3%A9-GUM%20%7C%20DCC%20XML-orange?style=for-the-badge)]()
 
-  <p align="center">
-    <strong>Full Stack Developer | AI Engineer | Machine Learning & Deep Learning | DevSecOps</strong><br/>
-    Building secure, intelligent, and scalable web applications with Python, React, Next.js, WordPress & WooCommerce
-  </p>
-
-  <br/>
-
-  <!-- Social Badges -->
-  <a href="https://linkedin.com/in/abdou-arabi-3603bb310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/arabiabdou453-cpu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:arabiabdou453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/arabiabdou" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/abdouarabi" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/abdou.arabi42/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+[🌐 **Consulter la Démo en Ligne**](https://saas-metroparc.netlify.app/) | [📁 **Dépôt GitHub**](https://github.com/arabiabdou453-cpu/Metroparc)
 
 </div>
 
 <br/>
 
----
+## 📌 Présentation
 
-## 👨‍💻 Executive Summary
+**METROPARC** est une plate-forme SaaS moderne de métrologie industrielle conçue pour centraliser la gestion complète de votre parc d'instruments de mesure, automatiser vos calculs d'incertitudes selon le guide **GUM** et optimiser vos périodicités d'étalonnage conformément à la norme **FDX 07-014**.
 
-```gcode
-Location     : Algeria
-Specialty    : AI Engineering • Full-Stack Web Development • DevSecOps
-Core Stack   : Python | JavaScript / TypeScript | React | Next.js | PHP / WordPress / WooCommerce
-DevSecOps    : Shift-Left Security | GitHub Actions | SAST | Secret Detection | Docker
-Automation   : n8n | Claude AI | LLM Agents | Custom APIs & Webhooks
-```
-
-I am a **Full-Stack Developer** and **AI Engineer** specializing in the intersection of artificial intelligence, modern web engineering, and enterprise DevSecOps. I design and build production-ready applications—ranging from predictive Machine Learning models to scalable React/Next.js platforms, custom WooCommerce stores, and secure CI/CD pipelines.
+Finies les gestions sur des fichiers Excel dispersés et non sécurisés : METROPARC offre une traçabilité totale et vous prépare à réussir tous vos audits d'accréditation et de certification.
 
 ---
 
-## 🛠️ Technical Stack & Real Icons
+## ✨ Modules Principaux
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,php,html,css,tensorflow,pytorch,docker,githubactions,linux,wordpress,n8n,git,mysql,vscode,postman&perline=10" alt="Tech Stack Icons" />
-</p>
+### 📋 Module 01 : Gestion du Parc d'Instruments
+- **Inventaire Centralisé :** Fiches équipements détaillées, historiques d'utilisation et entrées/sorties.
+- **Planning & Rappels :** Suivi automatisé des périodicités d'étalonnage et des vérifications intermédiaires (VI).
+- **Gestion Documentaire :** Numérisation et archivage sécurisé des certificats et notices.
 
-<br/>
+### 🧮 Module 02 : Feuilles de Calcul & Certificats Numériques
+- **Calcul d'Incertitudes GUM :** Application automatique du guide JCGM 100:2008 & EA 02/04.
+- **Bilan des Corrections :** Calcul automatique des incertitudes composées et élargies.
+- **Format DCC XML :** Génération de Certificats d'Étalonnage Numériques (*Digital Calibration Certificate*) conformes ISO/IEC 17025.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI & Machine Learning</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Full-Stack Development</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 DevSecOps & Cloud Security</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <br/>
-        <img src="https://img.shields.io/badge/Semgrep-1C2C4B?style=flat-square&logo=semgrep&logoColor=white" />
-        <img src="https://img.shields.io/badge/CodeQL-000000?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trivy-0275B8?style=flat-square&logo=aquasec&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 WordPress & WooCommerce</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-        <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhook&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 📈 Module 03 : Surveillance, Dérive & Cartes de Contrôle
+- **Suivi des Dérives :** Modélisation mathématique et prédictive de la dérive des instruments.
+- **Cartes de Contrôle :** Graphiques de suivi des vérifications intermédiaires avec alertes intelligentes hors tolérances.
+
+### ⚙️ Module 04 : Optimisation des Périodicités (FDX 07-014)
+- **Méthode de la Dérive :** Ajustement dynamique fondé sur l'évolution réelle des dérives.
+- **Rapport de Périodicité :** Analyse du ratio temps/dérive pour ajuster les intervalles.
+- **Méthode OPPERET :** Optimisation multicritère des coûts et risques métrologiques.
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 📜 Conformité & Normes Qualité
 
-### 🤖 AI & Machine Learning Projects
+METROPARC répond rigoureusement aux exigences des référentiels internationaux et nationaux :
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🚗 Car Price Prediction System</h4>
-      <p>Supervised Machine Learning model & Streamlit dashboard that analyzes vehicle attributes and predicts accurate market prices.</p>
-      <p><strong>Stack:</strong> Python • Scikit-Learn • Pandas • Streamlit</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🔗 View Repository</a></p>
-    </td>
-    <td width="50%">
-      <h4>🏠 House Price Prediction Engine</h4>
-      <p>Data science regression pipeline for real estate valuation, statistical cleaning, and feature engineering.</p>
-      <p><strong>Stack:</strong> Python • Scikit-Learn • Pandas • Matplotlib</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🔗 View Repository</a></p>
-    </td>
-  </tr>
-</table>
+- **ISO/IEC 17025:2017** — Exigences générales concernant la compétence des laboratoires d'étalonnages et d'essais.
+- **ISO 9001:2015 §7.5** — Systèmes de gestion de la qualité & maîtrise des équipements de mesure.
+- **ISO 10012:2003** — Systèmes de management de la mesure.
+- **FDX 07-014** — Méthodes d'optimisation des intervalles de confirmation métrologique.
+- **JCGM 100:2008 (GUM)** — Évaluation des données de mesure – Guide pour l'expression de l'incertitude de mesure.
+- **EA-4/02 M:2022** — Evaluation of the Uncertainty of Measurement in Calibration.
+- **DCC v3.x** — Certificat d'Étalonnage Numérique (*Digital Calibration Certificate* XML).
 
 ---
 
-### 🌐 Full-Stack Applications
+## 🛡️ Confidentialité & Impartialité (ISO/IEC 17025 §4.1 & §4.2)
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>📐 METROPARC — Industrial Metrology SaaS Platform</h4>
-      <p>Enterprise SaaS platform for industrial metrology compliance (<strong>ISO/IEC 17025</strong>, <strong>ISO 9001</strong>, <strong>FDX 07-014</strong>). Features fleet tracking, GUM uncertainty calculations, drift monitoring, and DCC XML digital certificate generation.</p>
-      <p><strong>Stack:</strong> HTML5 • Modern CSS3 • JavaScript ES6+ • Google Apps Script Webhooks • Netlify</p>
-      <p>
-        <a href="https://saas-metroparc.netlify.app/">🌐 <strong>Live Demo</strong></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/arabiabdou453-cpu/Metroparc">📁 <strong>GitHub Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- **Impartialité (§4.1) :** Cloisonnement strict des rôles (Technicien, Responsable Qualité, Auditeur), traçabilité immuable des validations et neutralité totale vis-à-vis des prestataires.
+- **Confidentialité (§4.2) :** Isolation logique des données par laboratoire, sauvegardes chiffrées, journaux d'accès complets et conformité aux audits ALGERAC.
 
 ---
 
-### 🛒 WordPress & WooCommerce Websites
+## 🛠️ Stack Technique
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>💼 Enterprise WordPress & Custom WooCommerce Platforms</h4>
-      <p>Bespoke WordPress websites and WooCommerce online stores built with Elementor, custom PHP integrations, payment gateways, responsive design, and advanced speed/SEO optimization for businesses.</p>
-      <p><strong>Stack:</strong> WordPress • WooCommerce • PHP • Elementor • CSS3 • MySQL</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">🌐 <strong>Explore Portfolio</strong></a></p>
-    </td>
-  </tr>
-</table>
+- **Frontend :** HTML5, CSS3 Moderne (Variables CSS, Grid, Flexbox, Animations & Micro-interactions), Vanilla JavaScript ES6+
+- **Typographie :** Plus Jakarta Sans (Google Fonts)
+- **Collecte des Données & Formulaire :** Intégration **Google Apps Script** (Web App Webhook) transmettant directement les demandes de démo vers un tableur **Google Sheets** en temps réel (sans backend serveur nécessaire).
+- **Design System :** Palette de couleurs HSL sur mesure, dark elements, glassmorphic UI, responsive design
+- **Hébergement & Déploiement :** Netlify / Vercel
+- **Dépôt Git :** GitHub
 
 ---
 
-### 🔐 DevSecOps Security Pipeline
+## 🚀 Liens Utiles & Démo
 
-<table width="100%">
-  <tr>
-    <td>
-      <h4>🛡️ Automated Shift-Left CI/CD Security Scanning</h4>
-      <p>Production-grade DevSecOps pipeline automating code vulnerability detection, secret scanning (Gitleaks/TruffleHog), static analysis (Semgrep/CodeQL), and container security (Trivy) in GitHub Actions.</p>
-      <p><strong>Tools:</strong> Gitleaks • TruffleHog • Semgrep • Trivy • CodeQL • GitHub Actions • Docker</p>
-      <p><a href="https://github.com/arabiabdou453-cpu">📁 <strong>Repository</strong></a></p>
-    </td>
-  </tr>
-</table>
+- 🔗 **Application en Ligne (Live Demo) :** [https://saas-metroparc.netlify.app/](https://saas-metroparc.netlify.app/)
+- 🐙 **Code Source GitHub :** [https://github.com/arabiabdou453-cpu/Metroparc](https://github.com/arabiabdou453-cpu/Metroparc)
 
 ---
 
-## 📈 GitHub Activity Dashboard
+## 💻 Installation & Utilisation Locale
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arabiabdou453-cpu&theme=tokyonight" alt="Activity Graph" width="100%" />
-</p>
+1. **Cloner le dépôt :**
+   ```bash
+   git clone https://github.com/arabiabdou453-cpu/Metroparc.git
+   cd Metroparc
+   ```
+
+2. **Lancer le projet :**
+   Ouvrez le fichier `index.html` dans votre navigateur ou lancez le serveur de développement :
+   ```bash
+   npm run dev
+   ```
 
 ---
 
-## 🌐 Connect With Me
+## 📞 Contact & Support
 
-<p align="center">
-  <a href="https://github.com/arabiabdou453-cpu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abdou-arabi-3603bb310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:arabiabdou453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/arabiabdou" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/abdouarabi" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/abdou.arabi42/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- **Email :** [saas.metroparc@gmail.com](mailto:saas.metroparc@gmail.com)
+- **Téléphone :** 0667 775 568
+- **Localisation :** Boumerdes, Algérie
 
 ---
 
 <div align="center">
-  <p>⚡ <i>"Building intelligent, secure and scalable digital solutions where Artificial Intelligence meets modern software engineering."</i></p>
+
+© 2025 **METROPARC** — *Logiciel de Métrologie Industrielle. Tous droits réservés.*
+
 </div>
