@@ -3,13 +3,13 @@
   <h1>Hi 👋, I'm Abderrahmane Arabi</h1>
 
   <!-- Line 2: Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Deep+Learning;DevSecOps+%26+Automated+Security;Building+Secure+%26+Intelligent+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Engineer;Machine+Learning+%26+Deep+Learning;WordPress+%26+WooCommerce+Developer;DevSecOps+%26+Automated+Security;Building+Secure+%26+Intelligent+Web+Apps" alt="Typing SVG" />
 
   <br/><br/>
 
   <p align="center">
     <strong>Full Stack Developer | AI Enthusiast | Machine Learning & Deep Learning | DevSecOps</strong><br/>
-    Building secure and intelligent web applications with Python, React, Next.js
+    Building secure and intelligent web applications with Python, React, Next.js, WordPress & WooCommerce
   </p>
 
   <br/>
@@ -47,11 +47,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Developer** and **AI Engineer** focused on building intelligent web applications, predictive machine learning models, and automated security pipelines. 
+I am a **Full-Stack Developer** and **AI Engineer** focused on building intelligent web applications, predictive machine learning models, custom WooCommerce platforms, and automated security pipelines. 
 
 - 🧠 **AI & Machine Learning:** Developing end-to-end ML models, deep learning architectures, and data science pipelines.
 - 🌐 **Full-Stack Web Development:** Architecting responsive web applications using React, Next.js, Node.js, TypeScript, and PHP.
-- 🖥️ **WordPress Development:** Designing custom, high-performance WordPress portals, bespoke themes, and optimized sites.
+- 🛒 **WordPress & WooCommerce:** Building custom E-Commerce platforms, WooCommerce online stores, bespoke Elementor themes, and speed-optimized portals.
 - 🔐 **DevSecOps & Cloud Security:** Implementing automated CI/CD security workflows with secret scanning, SAST, and container auditing.
 - ⚙️ **Automation Workflows:** Engineering automated data pipelines and AI agent workflows using n8n and Claude AI.
 
@@ -70,7 +70,7 @@ I am a **Full-Stack Developer** and **AI Engineer** focused on building intellig
 | **Artificial Intelligence** | `Python` `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `PyTorch` |
 | **Generative AI** | `Claude AI` `LLM Applications` `Prompt Engineering` `AI Automation` |
 | **Full-Stack Development** | `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PHP` `HTML5` `CSS3` |
-| **WordPress** | `WordPress` `Elementor` `Custom PHP` `Website Optimization` |
+| **WordPress & E-Commerce** | `WordPress` `WooCommerce` `Elementor` `Custom PHP` `Speed Optimization` |
 | **DevSecOps** | `GitHub Actions` `Docker` `Linux` `CodeQL` `Semgrep` `Trivy` `Gitleaks` `TruffleHog` |
 | **Automation** | `n8n` `APIs` `Webhooks` `Workflow Automation` |
 
@@ -101,11 +101,11 @@ I am a **Full-Stack Developer** and **AI Engineer** focused on building intellig
 
 ---
 
-### 🖥️ WordPress Websites
+### 🛒 WordPress & WooCommerce Websites
 
-#### 💼 Custom WordPress Enterprise Portals
-- **Description:** High-performance corporate portals and client landing pages featuring custom Elementor architecture, custom PHP templates, responsive mobile layouts, and speed optimization.
-- **Technologies:** WordPress, PHP, Elementor, CSS3, MySQL
+#### 💼 Custom WooCommerce Stores & Corporate Portals
+- **Description:** High-performance WooCommerce online stores, payment gateway integrations, bespoke Elementor architecture, custom PHP templates, responsive mobile layouts, and speed optimization.
+- **Technologies:** WordPress, WooCommerce, PHP, Elementor, CSS3, MySQL
 - **Link:** [WordPress Projects](https://github.com/arabiabdou453-cpu)
 
 ---
@@ -133,36 +133,6 @@ I am a **Full-Stack Developer** and **AI Engineer** focused on building intellig
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Vision
 
-<p align="center">
-  <a href="https://github.com/arabiabdou453-cpu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/abdou-arabi-3603bb310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:arabiabdou453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/arabiabdou" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/abdouarabi" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/abdou.arabi42/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <p>⚡ <i>"Building intelligent, secure and scalable digital solutions where Artificial Intelligence meets modern software engineering."</i></p>
-</div>
+> *"Building intelligent, secure and scalable digital solutions where Artificial Intelligence meets modern software engineering."*
