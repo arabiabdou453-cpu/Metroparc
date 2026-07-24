@@ -1,22 +1,22 @@
 <div align="center">
 
-# Abderrahmane Arabi
+# Hi 👋, I'm Abderrahmane Arabi
 
 ### AI Engineer • Full-Stack Developer • WordPress Developer • DevSecOps Enthusiast
 
-*"Building intelligent AI solutions, modern web applications and secure software systems."*
+*"Building intelligent AI solutions, modern web applications and secure digital experiences."*
 
-<p align="center">
-  <a href="https://github.com/arabiabdou453-cpu">
-    <img src="https://img.shields.io/badge/GitHub-arabiabdou453--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/abdou-arabi-3603bb310">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdou--Arabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arabiabdou453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arabiabdou453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/arabiabdou453-cpu">
+  <img src="https://img.shields.io/badge/GitHub-arabiabdou453--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+<a href="https://linkedin.com/in/abdou-arabi-3603bb310">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdou--Arabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:arabiabdou453@gmail.com">
+  <img src="https://img.shields.io/badge/Email-arabiabdou453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -24,99 +24,90 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven **AI Engineer**, **Full-Stack Web Developer**, **WordPress Developer**, and **DevSecOps Enthusiast** passionate about bridging artificial intelligence, modern web engineering, and enterprise-grade security. 
+I am an AI Engineer, Full-Stack Web Developer, WordPress Specialist, and DevSecOps Enthusiast focused on engineering intelligent software solutions, modern web platforms, and automated security pipelines.
 
-My technical focus spans across:
+My technical work centers on:
 
-- 🧠 **Artificial Intelligence & Machine Learning:** Designing predictive ML models, regression engines, and data preprocessing pipelines.
-- 🔬 **Deep Learning:** Building neural networks and deep architecture models using TensorFlow and PyTorch.
-- 🌐 **Full-Stack Web Development:** Architecting responsive, high-performance web applications using modern JavaScript/TypeScript, React, Node.js, and Vanilla CSS/HTML.
-- 🎨 **WordPress Website Development:** Crafting custom WordPress themes, Elementor portals, speed optimization, and scalable web solutions.
-- 🔐 **DevSecOps & Secure Development:** Implementing automated CI/CD security pipelines with static code analysis, secret detection, and container security.
-- ⚙️ **Automation Workflows:** Building automated data pipelines and AI agent workflows using n8n, Claude AI, and custom webhooks.
+- Developing end-to-end Machine Learning models, regression systems, and deep learning architectures for real-world applications.
+- Building full-stack, responsive web platforms and SaaS solutions using modern JavaScript, React, Node.js, and clean web standards.
+- Crafting custom, high-performance WordPress portals, bespoke themes, and optimized web experiences.
+- Engineering automated n8n workflows integrated with LLMs, Claude AI, and custom webhooks to automate data processing and operations.
+- Enforcing shift-left security by integrating static code analysis, secret scanning, and vulnerability checks directly into CI/CD pipelines.
+
+I am continuously exploring emerging AI paradigms, cloud infrastructure, and security practices to build software that is intelligent, scalable, and secure by design.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio / Featured Projects
 
-### 🧠 AI & Machine Learning Projects
+### 🤖 AI & Machine Learning Projects
 
-#### 🚗 Car Price Prediction System
-- **Description:** An end-to-end Machine Learning solution coupled with an interactive Streamlit web interface to estimate market valuations of automobiles based on technical specifications and historical trends.
+#### Car Price Prediction System
+- **Description:** Interactive Streamlit web application powered by a supervised Machine Learning regression pipeline that estimates car market values based on technical specifications and historical market data.
 - **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Streamlit
-- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+- **Repository:** [Car Price Prediction System](https://github.com/arabiabdou453-cpu)
 
-#### 🏠 House Price Prediction Model
-- **Description:** Supervised Machine Learning regression model designed for real estate price valuation, feature engineering, and statistical data cleaning.
+#### House Price Prediction Model
+- **Description:** Machine Learning model focused on real estate valuation, feature engineering, exploratory data analysis, and predictive accuracy evaluation.
 - **Technologies:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib
-- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+- **Repository:** [House Price Prediction](https://github.com/arabiabdou453-cpu)
 
 ---
 
-### 💻 Full-Stack Web Projects
+### 🌐 Full-Stack Applications
 
-#### 📐 METROPARC — Industrial Metrology SaaS Platform
-- **Description:** A modern SaaS web platform for industrial metrology compliant with **ISO/IEC 17025**, **ISO 9001**, **ISO 10012**, and **FDX 07-014**. Features fleet management, automated GUM uncertainty calculation, drift control charts, and Digital Calibration Certificate (DCC XML) exports.
-- **Technologies:** HTML5, Modern CSS3 (Glassmorphism, HSL Design System), Vanilla JS ES6+, Google Apps Script Webhook, Netlify
-- **Links:** [Live Demo](https://saas-metroparc.netlify.app/) • [GitHub Repository](https://github.com/arabiabdou453-cpu/Metroparc)
+#### METROPARC — Industrial Metrology SaaS Platform
+- **Description:** Full-stack SaaS platform for industrial metrology, enabling instrument fleet management, automated uncertainty calculations following GUM standards, drift monitoring, and DCC XML export compliant with ISO/IEC 17025 and FDX 07-014.
+- **Technologies:** HTML5, Modern CSS3 (Glassmorphism), Vanilla JS ES6+, Google Apps Script Webhook, Netlify
+- **Live Demo:** [https://saas-metroparc.netlify.app/](https://saas-metroparc.netlify.app/)
+- **Repository:** [METROPARC Repository](https://github.com/arabiabdou453-cpu/Metroparc)
 
 ---
 
-### 🌐 WordPress Websites
+### 🖥️ WordPress Websites
 
-#### 💼 Custom WordPress Portals & Enterprise Websites
-- **Description:** Custom-built corporate websites, client landing pages, and dynamic WordPress portals designed with Elementor, custom PHP templates, mobile-first responsive layouts, and advanced SEO/speed optimizations.
+#### Custom WordPress Enterprise Portals
+- **Description:** High-performance corporate portals and client landing pages featuring custom Elementor architecture, custom PHP templates, responsive mobile layouts, SEO optimization, and speed tuning.
 - **Technologies:** WordPress, PHP, Elementor, CSS3, MySQL, Website Optimization
-- **Links:** [Live Portfolio / GitHub Profile](https://github.com/arabiabdou453-cpu)
+- **Repository / Portfolio:** [WordPress Projects](https://github.com/arabiabdou453-cpu)
 
 ---
 
 ### 🔐 DevSecOps Security Pipeline
 
-#### 🛡️ Automated DevSecOps Security Scanning Pipeline
-- **Description:** An automated multi-stage CI/CD security pipeline designed to enforce shift-left security practices. Automatically scans codebase for exposed credentials, static code vulnerabilities, dependencies, and container flaws prior to deployment.
-- **Security Tools & Stack:** Gitleaks, TruffleHog, Semgrep, Trivy, CodeQL, GitHub Actions, Docker, Linux
-- **Links:** [GitHub Repository](https://github.com/arabiabdou453-cpu)
+#### Automated CI/CD Security Workflow
+- **Description:** Automated CI/CD security workflow integrating security testing directly into software development lifecycle. Detects exposed secrets, static code vulnerabilities, dependency risks, and container flaws automatically prior to production deployment.
+- **Tools & Technologies:** Gitleaks, TruffleHog, Semgrep, Trivy, CodeQL, GitHub Actions, Docker, Linux
+- **Repository:** [DevSecOps Security Pipeline](https://github.com/arabiabdou453-cpu)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🧠 AI & Data Science
+### Artificial Intelligence
 `Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `TensorFlow` • `PyTorch`
 
-### 🤖 Generative AI
+### Generative AI
 `Claude AI` • `LLM Applications` • `Prompt Engineering` • `AI Automation`
 
-### 🌐 Full Stack Development
-`HTML5` • `CSS3` • `JavaScript` • `React` • `TypeScript` • `Node.js` • `PHP`
+### Full-Stack Development
+`HTML` • `CSS` • `JavaScript` • `React` • `TypeScript` • `Node.js` • `PHP`
 
-### 🎨 WordPress
-`WordPress` • `Elementor` • `PHP` • `Website Optimization`
+### WordPress
+`WordPress` • `Elementor` • `Website Development`
 
-### 🔐 DevSecOps & Cloud
-`GitHub Actions` • `Docker` • `Linux` • `CodeQL` • `Semgrep` • `Trivy` • `Gitleaks` • `TruffleHog`
+### DevSecOps
+`GitHub Actions` • `Docker` • `Linux` • `CodeQL` • `Semgrep` • `Trivy` • `Gitleaks`
 
-### ⚙️ Automation & APIs
-`n8n` • `REST APIs` • `Webhooks` • `Workflow Automation`
-
----
-
-## 🌍 My Websites & Online Projects
-
-| Project | Category | Description | Live Demo | Repository |
-| :--- | :--- | :--- | :---: | :---: |
-| **METROPARC** | Industrial SaaS | SaaS platform for metrology & GUM uncertainty calculation | [Live Site](https://saas-metroparc.netlify.app/) | [GitHub](https://github.com/arabiabdou453-cpu/Metroparc) |
-| **Car Price Predictor** | AI / ML App | Interactive Streamlit ML app predicting car prices | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
-| **House Price ML** | AI / Data Science | Supervised regression model for real estate valuation | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
-| **WordPress Portals** | Web Development | High-performance responsive WordPress business sites | [GitHub Profile](https://github.com/arabiabdou453-cpu) | [GitHub](https://github.com/arabiabdou453-cpu) |
+### Automation
+`n8n` • `APIs` • `Workflow Automation`
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&count_private=true" alt="Abderrahmane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arabiabdou453-cpu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arabiabdou453-cpu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -151,3 +142,9 @@ My technical focus spans across:
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
+---
+
+## ⚡ Vision
+
+Building intelligent, secure and scalable digital solutions where Artificial Intelligence meets modern software engineering.
